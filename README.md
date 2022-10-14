@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sadra-etaei
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : sadra.etaei.1386@gmail.com
 
 <!---
 sadra-etaei/sadra-etaei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
