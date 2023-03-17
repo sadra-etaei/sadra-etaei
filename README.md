@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sadra-etaei
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on xlog
 - 📫 How to reach me : sadra.etaei.1386@gmail.com
 
 <!---
